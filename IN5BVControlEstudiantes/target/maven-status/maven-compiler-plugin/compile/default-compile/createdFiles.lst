@@ -1,6 +1,0 @@
-com\josuemarroquin\models\domain\Estudiante.class
-com\josuemarroquin\db\Conexion.class
-com\josuemarroquin\system\Principal.class
-com\josuemarroquin\controller\ServletEstudiante.class
-com\josuemarroquin\models\idao\IEstudianteDao.class
-com\josuemarroquin\models\dao\EstudianteDaoImpl.class
